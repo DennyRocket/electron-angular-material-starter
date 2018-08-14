@@ -31,7 +31,7 @@ With this sample, you can :
 Clone this repository locally :
 
 ``` bash
-git clone https://github.com/electron-angular-material-starter
+git clone https://github.com/dennyrocket/electron-angular-material-starter
 ```
 
 Install dependencies with npm :
