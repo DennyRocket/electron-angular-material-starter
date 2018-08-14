@@ -10,13 +10,13 @@
 
 # Introduction
 
-Based on https://github.com/maximegris/angular-electron. Updated angular versions, added bootstrap for personal learning project, to have an easy starter package.
+Based on https://github.com/maximegris/angular-electron. Updated angular versions, added @angular/material for personal learning project, to have an easy starter package.
 
-Bootstrap and package your project with Angular 6(+) and Electron (Typescript + SASS + Hot Reload) for creating Desktop applications.
+Package your project with Angular 6(+) and Electron (Typescript + SASS + Hot Reload) for creating Desktop applications.
 
 Currently runs with:
 
-- Angular v6.0.5
+- Angular v6.1.0
 - Electron v2.0.3
 - Electron Builder v20.13.4
 
@@ -31,7 +31,7 @@ With this sample, you can :
 Clone this repository locally :
 
 ``` bash
-git clone https://github.com/DennyRocket/electron-angular-bootstrap
+git clone https://github.com/electron-angular-material-starter
 ```
 
 Install dependencies with npm :
